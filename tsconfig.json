@@ -21,7 +21,8 @@
     },
     "resolveJsonModule": true,
     "types": [
-      "vite/client"
+      "vite/client",
+      "naive-ui/volar"
     ],
     "allowImportingTsExtensions": true,
     "allowJs": false,
